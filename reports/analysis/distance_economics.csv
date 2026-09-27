@@ -1,0 +1,7 @@
+distance_band,total_trips,avg_fare,avg_total_amount,avg_duration_minutes
+<1 mile,10643654,11.81,18.83,7.83
+1–2 miles,13559064,13.02,20.6,11.65
+2–5 miles,12809196,21.08,29.16,19.14
+5–10 miles,5137704,34.67,45.86,28.34
+10–20 miles,3136438,58.76,77.13,46.06
+20+ miles,390824,92.36,115.37,59.42

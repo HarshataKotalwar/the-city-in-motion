@@ -1,0 +1,10 @@
+
+# Large taxi datasets
+/data/raw/*.parquet
+/data/processed/*.parquet
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
