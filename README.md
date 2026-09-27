@@ -106,8 +106,7 @@ These findings are descriptive and reflect the selected dataset and analysis per
 ## Dashboard Preview
 
 Explore **The City in Motion**, an interactive Tableau dashboard analyzing NYC Yellow Taxi trips from August 2025 to July 2026.
-
-![The City in Motion Dashboard](the_city_in_motion.png)
+![The City in Motion Dashboard](docs/images/dashboard.png)
 The dashboard includes:
 
 * Overall trip volume and demand indicators
